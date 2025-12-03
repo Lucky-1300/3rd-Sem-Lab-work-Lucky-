@@ -6,7 +6,7 @@ export default function Resume() {
 
       {/* About */}
       <section id="about" className="py-6">
-        <h1 className="text-3xl font-bold">Lucky Ray</h1>
+        <h1 className="text-3xl font-bold">Komal Kumari Roy</h1>
         <p className="text-gray-700 mt-2">
           Motivated BCA student with a strong interest in coding and web development. Currently enhancing skills in Data Structures & Algorithms while developing projects with HTML, CSS, JavaScript, and React. Experienced in building simple, interactive user interfaces and applying computer science fundamentals through hands-on practice. Enthusiastic about translating ideas into functional applications and continuously improving through experimentation. Committed to personal growth and eager to gain real-world experience while contributing as a web developer.
         </p>
@@ -49,7 +49,7 @@ export default function Resume() {
       {/* Contact */}
       <section id="contact" className="py-6">
         <h2 className="text-2xl font-semibold m-2">Contact</h2>
-        <p className="m-2">Email: luckykumari42774@gmail.com</p>
+        <p className="m-2">Email: komalroy42774@gmail.com</p>
       </section>
     </div>
   );
